@@ -1,4 +1,4 @@
-### i edit this text later
+### i edit this text later.
 
 <!--
 **AliakseiHryhoryeu/AliakseiHryhoryeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
